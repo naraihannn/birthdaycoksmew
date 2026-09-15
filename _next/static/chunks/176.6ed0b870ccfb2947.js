@@ -2327,7 +2327,7 @@
                                         className: "dock-item safari-ic ".concat("closed" !== S ? "open" : ""),
                                         onClick: () => J("safari"),
                                         children: (0, i.jsx)("img", {
-                                            src: "https://upload.wikimedia.org/wikipedia/commons/8/8d/Safari_2020_logo.svg",
+                                            src: "/birthdaycoksmew/images/safari.png",
                                             alt: "Safari",
                                             loading: "lazy",
                                             referrerPolicy: "no-referrer"
