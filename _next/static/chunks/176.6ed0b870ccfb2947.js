@@ -2765,9 +2765,9 @@
                 },
                 P = {
                     left: {
-                        title: "Happy Birthday, Nadwira Kinanthi Maghfira ✨",
-                        subtitle: "17 Agustus 2025",
-                        paragraphs: ["happy level‑up day ye coksmew! semoga tahun ini lau makin sehat, makin hepi, makin cuan, dan semua goal kejar‑kejar \uD83D\uDCAB", "thanks ye udeh jadi kawan paling baek, korban bully gue, dan ngertiin. i'm so proud of you — let's grow bareng, no skip‑skip ✨", "ps: wishlist tahun ini — moga cepet sadar dan sehat yee, cepet nemu cowok baek juga \uD83D\uDE34\uD83C\uDFAC"]
+                        title: "Happy Birthday, Nadwira Kinanthi Maghfira \uD83D\uDC37",
+                        subtitle: "20 September 2025",
+                        paragraphs: ["happy level‑up day ye coksmew! semoga tahun ini lau makin sehat, makin hepi, makin cuan, dan semua goal kejar‑kejar 🙏", "thanks ye udeh jadi kawan paling baek, korban bully gue, dan ngertiin. i'm so proud of you — let's grow bareng, no skip‑skip \uD83D\uDC12", "ps: wishlist tahun ini — moga cepet sadar dan sehat yee, cepet nemu cowok baek juga 🤣😂"]
                     },
                     right: {
                         title: "Rencana Bareng Kita \uD83D\uDC96",
