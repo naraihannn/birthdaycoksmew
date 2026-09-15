@@ -2757,10 +2757,6 @@
                                     }), d.right.notesLabel && (0, i.jsx)("p", {
                                         className: "typer",
                                         children: d.right.notesLabel
-                                    }), d.right.paragraphs.map((e, t) => (0, i.jsx)("p", {
-                                        className: "typer",
-                                        children: e
-                                    }, t))]
                                     })]
                                 })]
                             })]
