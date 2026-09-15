@@ -1031,7 +1031,7 @@
                                 window.dispatchEvent(new Event("spotifyPlay"))
                             } catch (e) {}
                         }).catch(e => console.error("❌ Audio resume error:", e)));
-                        i.src = e.file, n && (n.currentSong = e), I(e), i.play().then(() => {
+                        i.src = e.file, i.load(), n && (n.currentSong = e), I(e), i.play().then(() => {
                             n && (n.isPlaying = !0), O(!0);
                             try {
                                 window.dispatchEvent(new Event("spotifyPlay"))
