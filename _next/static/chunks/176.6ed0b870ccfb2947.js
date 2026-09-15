@@ -7215,13 +7215,13 @@
                         } catch (e) {}
                     };
                     try {
-                        n("/video/video1.mp4", "Naik Gunung", 0)
+                        n("/birthdaycoksmew/video/video1.mp4", "Naik Gunung", 0)
                     } catch (e) {}
                     try {
-                        n("/video/video2.mp4", "Rayain Ultah Tahun Lalu", 1)
+                        n("/birthdaycoksmew/video/video2.mp4", "Rayain Ultah Tahun Lalu", 1)
                     } catch (e) {}
                     try {
-                        n("/video/video3.mp4", "Review Makanan", 2)
+                        n("/birthdaycoksmew/video/video3.mp4", "Review Makanan", 2)
                     } catch (e) {}
                     this.currentChannel = 0
                 }
