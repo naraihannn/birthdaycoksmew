@@ -2022,7 +2022,7 @@
                                                                 children: "2025"
                                                             }), (0, i.jsx)("div", {
                                                                 className: "album-title",
-                                                                children: "Our Memories"
+                                                                children: "Your Memories"
                                                             }), (0, i.jsxs)("div", {
                                                                 className: "album-actions",
                                                                 children: [(0, i.jsx)("button", {
