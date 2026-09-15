@@ -1646,7 +1646,7 @@
                                                 "aria-label": "Day grid",
                                                 children: W.map((e, t) => (0, i.jsx)("img", {
                                                     className: ["tile hero", "tile tall", "tile sq a", "tile sq b", "tile wide", "tile sq c", "tile sq d", "tile sq e", "tile sq f", "tile sq g", "tile sq h", "tile sq i"][t] || "tile",
-                                                    src: e,
+                                                    src: "/birthdaycoksmew"+e,
                                                     alt: "",
                                                     onClick: () => {
                                                         k(t), v("viewer")
