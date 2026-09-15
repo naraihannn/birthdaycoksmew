@@ -994,31 +994,31 @@
                         title: "Lagu Pertama",
                         artist: "The Weeknd",
                         duration: "3:24",
-                        file: "/music/lagu1.mp3"
+                        file: "/birthdaycoksmew/music/lagu1.mp3"
                     }, {
                         id: 2,
                         title: "Lagu Kedua",
                         artist: "The Weeknd",
                         duration: "4:15",
-                        file: "/music/lagu2.mp3"
+                        file: "/birthdaycoksmew/music/lagu2.mp3"
                     }, {
                         id: 3,
                         title: "Lagu Ketiga",
                         artist: "The Weeknd",
                         duration: "3:45",
-                        file: "/music/lagu3.mp3"
+                        file: "/birthdaycoksmew/music/lagu3.mp3"
                     }, {
                         id: 4,
                         title: "Lagu Keempat",
                         artist: "The Weeknd",
                         duration: "4:02",
-                        file: "/music/lagu4.mp3"
+                        file: "/birthdaycoksmew/music/lagu4.mp3"
                     }, {
                         id: 5,
                         title: "Lagu Kelima",
                         artist: "The Weeknd",
                         duration: "3:38",
-                        file: "/music/lagu5.mp3"
+                        file: "/birthdaycoksmew/music/lagu5.mp3"
                     }], U = e => {
                         var t;
                         let n = window.__spotifyPlayer__,
