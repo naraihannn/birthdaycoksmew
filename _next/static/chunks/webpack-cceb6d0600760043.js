@@ -115,7 +115,7 @@
         r.tt = () => (void 0 === e && (e = {
             createScriptURL: e => e
         }, "undefined" != typeof trustedTypes && trustedTypes.createPolicy && (e = trustedTypes.createPolicy("nextjs#bundler", e))), e)
-    })(), r.tu = e => r.tt().createScriptURL(e), r.p = "/birthdaycoksmew/_next/", (() => {
+    })(), r.tu = e => r.tt().createScriptURL(e), r.p ="/birthdaycoksmew/_next/", (() => {
         var e = {
             68: 0,
             896: 0
