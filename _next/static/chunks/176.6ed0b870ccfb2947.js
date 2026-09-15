@@ -4366,7 +4366,7 @@
                             },
                             className: "jsx-2a7c61b783766790",
                             children: (0, i.jsx)("img", {
-                                src: "/birthdaycoksmew/images/mainmenu.png",
+                                src:"/birthdaycoksmew/images/mainmenu.png",
                                 alt: "HEYBLOX WORLD Preview",
                                 style: {
                                     width: "100%",
