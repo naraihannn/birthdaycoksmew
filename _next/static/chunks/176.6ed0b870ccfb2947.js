@@ -5742,7 +5742,7 @@
                                                     let t = ef.current;
                                                     t && !ew.current && new o.Am1().load("/birthdaycoksmew/music/lagulatar.mp3", e => {
                                                         try {
-                                                            t.setBuffer(e), t.setLoop(true), t.setLoopStart(0), t.setLoopEnd(e.duration);
+                                                            t.setBuffer(e), t.setLoop(false), t.onEnded(() => {     try {         t.play();     } catch (e) {} });
                                                             let n = ev.current;
                                                             try {
                                                                 t.setVolume(.02), eb.current = .02
