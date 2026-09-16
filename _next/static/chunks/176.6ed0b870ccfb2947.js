@@ -5748,6 +5748,11 @@
                                                                 t.setVolume(.02), eb.current = .02
                                                             } catch (e) {}
                                                             t.play();
+                                                            try {
+                                                                t.source.loop = true;
+                                                                t.source.loopStart = 0;
+                                                                t.source.loopEnd = e.duration;
+                                                            } catch (e) {}
                                                             let i = performance.now(),
                                                                 a = () => {
                                                                     let e = (performance.now() - i) / 1500,
