@@ -5740,7 +5740,7 @@
                                                         await (null == (e = eg.current) ? void 0 : e.context.resume())
                                                     } catch (e) {}
                                                     let t = ef.current;
-                                                    t && !ew.current && new o.Am1().load("/music/lagulatar.mp3", e => {
+                                                    t && !ew.current && new o.Am1().load("/birthdaycoksmew/music/lagulatar.mp3", e => {
                                                         try {
                                                             t.setBuffer(e), t.setLoop(!0);
                                                             let n = ev.current;
