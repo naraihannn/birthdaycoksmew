@@ -1636,7 +1636,7 @@
                                                 className: "day-head",
                                                 children: [(0, i.jsx)("div", {
                                                     className: "day-title",
-                                                    children: "Mar 17"
+                                                    children: "Sep 20"
                                                 }), (0, i.jsx)("div", {
                                                     className: "day-sub",
                                                     children: "Antelope Valley California Poppy Reserve"
