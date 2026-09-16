@@ -2767,13 +2767,12 @@
                     left: {
                         title: "Happy Birthday, Nadwira Kinanthi Maghfira \uD83D\uDC37",
                         subtitle: "20 September 2025",
-                        paragraphs: ["happy level‑up day ye coksmew! semoga tahun ini lau makin sehat, makin hepi, makin cuan, dan semua goal kejar‑kejar 🙏", "thanks ye udeh jadi kawan paling baek, korban bully gue, dan ngertiin. i'm so proud of you — let's grow bareng, no skip‑skip \uD83D\uDC12", "ps: wishlist tahun ini — moga cepet sadar dan sehat yee, cepet nemu cowok baek juga 🤣😂"]
+                        paragraphs: ["happy level‑up day ye coksmew! semoga tahun ini lau makin sehat, makin hepi, makin cuan, dan semua goal kejar‑kejar 🙏", "thanks ye udeh jadi kawan paling baek, korban bully gue, dan ngertiin. i'm so proud of you — let's grow bareng, no skip‑skip \uD83D\uDC12", "ps: — moga lu selalu peduli sama diri sendiri dan sehat terus secara fisik serta mental yee, jangan keseringan mendem segala sesuatu perasaan lu, klo udeh siap cerita pokoknya inget disekitar lu ada orang yg sayang sama lu untuk siap nampung segala sesuatu tentang lu (jgn ngerasa ora enak), klo bingung sama perasaan atau kondisi lu.. coba deh istirahat dlu dan nangisin aja gpp udehh, gausah peduli apa kata orang dah tpi inget jgn berlarut alias ada kawan lu yg lain siap nampung isi semua pikiran lu, terakhir nehh pokoknya cepet nemu cowok baek juga yeee 🤣😂"]
                     },
                     right: {
                         title: "Daftar Dosa Lu Ke Gue 😎",
                         checklist: ["Doxing gue di roblox", "Suka telat klo ketemu", "Suka palkor janji", "kelakuan kayak anjing", "Nipu perihal kawan lu di discord"],
-                        notesLabel: "Ditunggu permintaan maaf ke gue: __________________________",
-                        paragraphs: ["tapi terlepas dari itu semua lu baek kok mew, gue maaafin lu hehehr..", "pokoknya gue doaain yg terbaik buat lu dan tentunya gue juga doain untuk orang paling lu sayang yaitu almarhumah", "di hari ini umur lu yg kepala 2, gue yakin beliau senang ngeliat lu makin besar", "semangat terus ya pren!"]
+                        notesLabel: "Ditunggu permintaan maaf ke gue: __________________________\n\ntapi terlepas dari itu semua lu baek kok mew, gue maaafin lu hehehe...\n\npokoknya gue doaain yg terbaik buat lu dan tentunya gue juga doain untuk orang paling lu sayang yaitu almarhumah\n\ndi hari ini, umur lu yg kepala 2, gue yakin beliau sangat senang ngeliat lu makin besar dan sehat\n\nsemangat terus ya pren!!!",
                     }
                 },
                 N = e => {
