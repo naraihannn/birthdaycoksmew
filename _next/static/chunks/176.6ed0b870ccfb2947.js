@@ -3622,7 +3622,7 @@
                                     letterSpacing: "2px"
                                 },
                                 className: "jsx-419593f3bacc7169",
-                                children: "HEYBLOX WORLD"
+                                children: "Mewblox World"
                             }), (0, i.jsx)("div", {
                                 style: {
                                     fontSize: 16,
@@ -4368,7 +4368,7 @@
                             className: "jsx-2a7c61b783766790",
                             children: (0, i.jsx)("img", {
                                 src:"/birthdaycoksmew/images/mainmenu.png",
-                                alt: "HEYBLOX WORLD Preview",
+                                alt: "Mewblox World Preview",
                                 style: {
                                     width: "100%",
                                     height: "100%",
@@ -4404,7 +4404,7 @@
                                     animation: "titleGlow 3s ease-in-out infinite alternate"
                                 },
                                 className: "jsx-2a7c61b783766790",
-                                children: "HEYBLOX WORLD"
+                                children: "Mewblox World"
                             }), (0, i.jsx)("div", {
                                 style: {
                                     fontSize: ea,
