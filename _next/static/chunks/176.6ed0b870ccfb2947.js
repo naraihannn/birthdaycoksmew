@@ -5630,23 +5630,13 @@
                         }, []),
                         ti = (0, a.useCallback)(() => {
                             let e = ef.current;
-                            e && (tn(0, 420), setTimeout(() => {
-                                try {
-                                    var t;
-                                    null == (t = e.stop) || t.call(e)
-                                } catch (e) {}
-                            }, 430))
+                            e && (e.pause(), tn(0, 420))
                         }, [tn]),
                         ta = (0, a.useCallback)(() => {
                             let e = ef.current;
                             if (e) {
                                 try {
-                                    if (!e.isPlaying) {
-                                        e.play();
-                                        try {
-                                            e.setLoop(!0)
-                                        } catch (e) {}
-                                    }
+                                     e.play().catch(() => {});
                                 } catch (e) {}
                                 tn(ev.current, 600)
                             }
