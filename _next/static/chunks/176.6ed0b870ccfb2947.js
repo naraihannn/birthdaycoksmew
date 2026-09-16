@@ -1307,7 +1307,7 @@
                                                                 onClick: () => w("site")
                                                             }), (0, i.jsx)("div", {
                                                                 className: "favcap",
-                                                                children: "heytml.com"
+                                                                children: "coksmew.com"
                                                             })]
                                                         }), (0, i.jsxs)("div", {
                                                             className: "favwrap",
@@ -1421,7 +1421,7 @@
                                                         }), (0, i.jsxs)("div", {
                                                             className: "card",
                                                             children: ["Issue tracking & product roadmaps.", (0, i.jsx)("br", {}), (0, i.jsx)("small", {
-                                                                children: "heytml.com"
+                                                                children: "coksmew.com"
                                                             })]
                                                         })]
                                                     })]
