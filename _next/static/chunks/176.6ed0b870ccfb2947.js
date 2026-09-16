@@ -2772,7 +2772,7 @@
                     right: {
                         title: "Daftar Dosa Lu Ke Gue 😎",
                         checklist: ["Doxing gue di roblox", "Suka telat klo ketemu", "Suka palkor janji", "kelakuan kayak anjing", "Nipu perihal kawan lu di discord"],
-                        notesLabel: "Ditunggu permintaan maaf ke gue: __________________________\n\ntapi terlepas dari itu semua lu baek kok mew, gue maaafin lu hehehe...\n\npokoknya gue doaain yg terbaik buat lu dan tentunya gue juga doain untuk orang paling lu sayang yaitu almarhumah\n\ndi hari ini, umur lu yg kepala 2, gue yakin beliau sangat senang ngeliat lu makin besar dan sehat\n\nsemangat terus ya pren!!!",
+                        notesLabel: "Ditunggu permintaan maaf ke gue: __________________________\n\ntapi terlepas dari itu semua lu baek kok mew, gue maaafin lu hehehe...\n\npokoknya gue doaain yg terbaik buat lu dan tentunya gue juga doain untuk orang paling lu sayang yaitu almarhumah mba Sri Lestari\n\ndi hari ini, umur lu yg kepala 2, gue yakin beliau sangat senang ngeliat lu makin besar dan sehat\n\nsemangat terus ya pren!!!",
                     }
                 },
                 N = e => {
