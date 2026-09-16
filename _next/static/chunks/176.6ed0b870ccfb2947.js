@@ -5739,37 +5739,12 @@
                                                         var e;
                                                         await (null == (e = eg.current) ? void 0 : e.context.resume())
                                                     } catch (e) {}
-                                                    let t = ef.current;
-                                                    t && !ew.current && new o.Am1().load("/birthdaycoksmew/music/lagulatar.mp3", e => {
-                                                        try {
-                                                            t.setBuffer(e), t.setLoop(!0), t.setLoopStart(0), t.setLoopEnd(e.duration);
-                                                            let n = ev.current;
-                                                            try {
-                                                                t.setVolume(.02), eb.current = .02
-                                                            } catch (e) {}
-                                                            t.play();
-                                                            try {
-                                                                t.source.loop = true;
-                                                                t.source.loopStart = 0;
-                                                                t.source.loopEnd = e.duration;
-                                                            } catch (e) {}
-                                                            let i = performance.now(),
-                                                                a = () => {
-                                                                    let e = (performance.now() - i) / 1500,
-                                                                        o = Math.min(1, e);
-                                                                    try {
-                                                                        let e = Math.max(0, Math.min(.2, .02 + (n - .02) * o));
-                                                                        t.setVolume(e), eb.current = e
-                                                                    } catch (e) {}
-                                                                    o < 1 ? ey.current = requestAnimationFrame(a) : (ey.current && cancelAnimationFrame(ey.current), ey.current = null)
-                                                                };
-                                                            ey.current = requestAnimationFrame(a), ew.current = !0
-                                                        } catch (e) {
-                                                            console.warn("BGM setup failed:", e)
-                                                        }
-                                                    }, void 0, e => {
-                                                        console.warn("BGM load error:", e)
-                                                    })
+                                                let t = new Audio("/birthdaycoksmew/music/lagulatar.mp3");
+                                                t.loop = true;
+                                                t.volume = .08;
+                                                ef.current = t;
+                                                t.play().catch(() => {});
+                                                ew.current = !0;
                                                 }, 200)
                                             }
                                         })(), null !== eo.current && (eo.current = requestAnimationFrame(n))
