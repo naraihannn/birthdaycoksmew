@@ -5215,7 +5215,7 @@
                                     try {
                                         let e = eg.current.context;
                                         try {
-                                            let t = await fetch("/audio/footsteps/loop.mp3", {
+                                            let t = await fetch("/birthdaycoksmew/audio/footsteps/loop.mp3", {
                                                 cache: "no-cache"
                                             });
                                             if (t.ok) {
