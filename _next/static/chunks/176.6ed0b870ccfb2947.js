@@ -991,33 +991,33 @@
                         }), o(e)
                     }, q = [{
                         id: 1,
-                        title: "Lagu Pertama",
-                        artist: "The Weeknd",
-                        duration: "3:24",
+                        title: "Selalu Ada di Nadimu",
+                        artist: "Bunga Citra Lestari",
+                        duration: "4:43",
                         file: "/birthdaycoksmew/music/lagu1.mp3"
                     }, {
                         id: 2,
-                        title: "Lagu Kedua",
-                        artist: "The Weeknd",
-                        duration: "4:15",
+                        title: "Bulan Yang Baik",
+                        artist: "Sal Priadi",
+                        duration: "4:26",
                         file: "/birthdaycoksmew/music/lagu2.mp3"
                     }, {
                         id: 3,
-                        title: "Lagu Ketiga",
-                        artist: "The Weeknd",
-                        duration: "3:45",
+                        title: "Gala Bunga Matahari",
+                        artist: "Sal Priadi",
+                        duration: "3:42",
                         file: "/birthdaycoksmew/music/lagu3.mp3"
                     }, {
                         id: 4,
-                        title: "Lagu Keempat",
-                        artist: "The Weeknd",
-                        duration: "4:02",
+                        title: "Coksmew Birthday",
+                        artist: "Cibong Music & Friends",
+                        duration: "5:00",
                         file: "/birthdaycoksmew/music/lagu4.mp3"
                     }, {
                         id: 5,
-                        title: "Lagu Kelima",
-                        artist: "The Weeknd",
-                        duration: "3:38",
+                        title: "Surprise",
+                        artist: "Cibong Music & Friends",
+                        duration: "3:15",
                         file: "/birthdaycoksmew/music/lagu5.mp3"
                     }], U = e => {
                         var t;
@@ -7185,13 +7185,13 @@
                         } catch (e) {}
                     };
                     try {
-                        n("/birthdaycoksmew/video/video1.mp4", "Teman", 0)
+                        n("/birthdaycoksmew/video/video1.mp4", "Video 1", 0)
                     } catch (e) {}
                     try {
-                        n("/birthdaycoksmew/video/video2.mp4", "Spesial", 1)
+                        n("/birthdaycoksmew/video/video2.mp4", "Video 2", 1)
                     } catch (e) {}
                     try {
-                        n("/birthdaycoksmew/video/video3.mp4", "Surprise", 2)
+                        n("/birthdaycoksmew/video/video3.mp4", "Video 3", 2)
                     } catch (e) {}
                     this.currentChannel = 0
                 }
