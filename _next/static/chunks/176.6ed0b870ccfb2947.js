@@ -1117,7 +1117,7 @@
                         }
                     }, []);
                     let W = Array.from({
-                            length: 14
+                            length: 20
                         }, (e, t)=>"/birthdaycoksmew/images/foto".concat(t+1,".jpg")),
                         [H, G] = (0, a.useState)(new Date);
                     (0, a.useEffect)(() => {
